@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from México</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=marcomadera alt=marcomadera/> </p>
 
-- 🔭 I’m currently working on a [Podcast App](https://github.com/MarcoMadera/Podcast-App)
-
 - 💬 Ask me about **react**
 
 - 👨‍💻 My projects are available at https://marcomadera.github.io/portfolio
