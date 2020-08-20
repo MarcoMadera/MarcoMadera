@@ -13,13 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
         node-version: '14'
     - run: npm install
     - run: npm run update-readme
-    - uses: actions/checkout@v2
     - run: |
+        git config user.name marcomadera
         git config user.email marcoseguro2@gmail.com
         git add README.md
         git commit -m "Update README"
