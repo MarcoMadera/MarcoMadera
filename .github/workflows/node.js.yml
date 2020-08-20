@@ -22,7 +22,7 @@ jobs:
         git config user.name marcomadera
         git config user.email marcoseguro2@gmail.com
         git add README.md
-        git commit -m "Update README"
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README"
         git push origin master
           
     
