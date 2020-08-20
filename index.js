@@ -9,7 +9,9 @@ const LATEST_ARTICLE_PLACEHOLDER = "%{{latest_article}}%";
     encoding: "utf-8",
   });
   const { items } = await parser.parseURL("https://marcomadera.com/rss.xml");
-  const [{ title }, { link }] = items;
+  const [{ title }] = items;
+  const [{ link }] = items;
+  console.log(title, link);
   const latestArticleMardown = `[${title}](${link})`;
   const newMarkdown = markdownTemplate.replace(
     LATEST_ARTICLE_PLACEHOLDER,
