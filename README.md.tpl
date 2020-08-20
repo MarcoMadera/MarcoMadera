@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **react**
 
-- 👨‍💻 My projects are available at https://marcomadera.com/portfolio
+- 👨‍💻 My projects are available at https://marcomadera.github.io/portfolio
 
-- 📝 I regulary write articles on https://marcomadera.com/blog
+- 📝 I regulary write articles on https://marcomadera.github.io/blog
+
+- 📝 Latest article: {latest_article}
 
 - ⚡ Fun fact **coffee is a fruit**
-
