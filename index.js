@@ -11,7 +11,6 @@ const LATEST_ARTICLE_PLACEHOLDER = "%{{latest_article}}%";
   const { items } = await parser.parseURL("https://marcomadera.com/rss.xml");
   const [{ title }] = items;
   const [{ link }] = items;
-  console.log(title, link);
   const latestArticleMardown = `[${title}](${link})`;
   const newMarkdown = markdownTemplate.replace(
     LATEST_ARTICLE_PLACEHOLDER,
