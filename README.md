@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [HTML Semántico](https://marcomadera.com/blog/html-semantico)
+- 📝 Latest article: [Github CLI](https://marcomadera.com/blog/github-cli)
 
 - ⚡ Fun fact **coffee is a fruit**
