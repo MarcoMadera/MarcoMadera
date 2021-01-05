@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [CSS: Hoja de estilos en cascada](https://marcomadera.com/blog/css)
+- 📝 Latest article: [Control de versiones de Git](https://marcomadera.com/blog/git)
 
 - ⚡ Fun fact **coffee is a fruit**
