@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Tipos y objetos en JavaScript](http://localhost:3000/blog/tipos-y-objetos-en-javascript)
+- 📝 Latest article: [Tipos y objetos en JavaScript](https://marcomadera.com/blog/tipos-y-objetos-en-javascript)
 
 - ⚡ Fun fact **coffee is a fruit**
