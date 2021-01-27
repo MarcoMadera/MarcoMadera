@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Control de versiones de Git](https://marcomadera.com/blog/git)
+- 📝 Latest article: [Tipos y objetos en JavaScript](http://localhost:3000/blog/tipos-y-objetos-en-javascript)
 
 - ⚡ Fun fact **coffee is a fruit**
