@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Snippets en Visual Studio Code](https://marcomadera.com/blog/snippets-en-vscode)
+- 📝 Latest article: [Seguridad en la web](https://marcomadera.com/blog/seguridad-web)
 
 - ⚡ Fun fact **coffee is a fruit**
