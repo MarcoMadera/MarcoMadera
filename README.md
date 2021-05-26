@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Seguridad en la web](https://marcomadera.com/blog/seguridad-web)
+- 📝 Latest article: [Primer aniversario del blog](https://marcomadera.com/blog/primer-aniversario)
 
 - ⚡ Fun fact **coffee is a fruit**
