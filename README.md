@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Primer aniversario del blog](https://marcomadera.com/blog/primer-aniversario)
+- 📝 Latest article: [Como usar expresiones regulares con JavaScript](https://marcomadera.com/blog/expresiones-regulares)
 
 - ⚡ Fun fact **coffee is a fruit**
