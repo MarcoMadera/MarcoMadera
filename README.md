@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Como usar expresiones regulares con JavaScript](https://marcomadera.com/blog/expresiones-regulares)
+- 📝 Latest article: [Variables y constantes en Rust](https://marcomadera.com/blog/variables-y-constantes-en-rust)
 
 - ⚡ Fun fact **coffee is a fruit**
