@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Variables y constantes en Rust](https://marcomadera.com/blog/variables-y-constantes-en-rust)
+- 📝 Latest article: [Como usar intersection observer](https://marcomadera.com/blog/intersection-observer)
 
 - ⚡ Fun fact **coffee is a fruit**
