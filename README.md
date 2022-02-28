@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Como usar intersection observer](https://marcomadera.com/blog/intersection-observer)
+- 📝 Latest article: [Map y WeakMap en JavaScript](https://marcomadera.com/blog/map-y-weakmap)
 
 - ⚡ Fun fact **coffee is a fruit**
