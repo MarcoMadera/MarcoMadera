@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 📝 Latest article: %{{latest_article}}%
 
 - ⚡ Fun fact **coffee is a fruit**
+
+- [GPG 0x66B0E22E61565130](https://keys.openpgp.org/vks/v1/by-fingerprint/1A61F15D4BE29AE7D6D3195E66B0E22E61565130)
