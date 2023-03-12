@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on https://marcomadera.com/
 
-- 📝 Latest article: [Map y WeakMap en JavaScript](https://marcomadera.com/blog/map-y-weakmap)
+- 📝 Latest article: [Cómo publicar tu sitio web con GitHub Pages](https://marcomadera.com/blog/github-pages)
 
 - ⚡ Fun fact **coffee is a fruit**
-
-- [GPG 0x66B0E22E61565130](https://keys.openpgp.org/vks/v1/by-fingerprint/1A61F15D4BE29AE7D6D3195E66B0E22E61565130)
